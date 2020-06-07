@@ -1,0 +1,19 @@
+{
+  "name": "dndShops",
+  "version": "0.1.0",
+  "description": "A utility for managing shop inventories in DnD",
+  "main": "index.js",
+  "author": "Benji Sidi",
+  "license": "MIT",
+  "dependencies": {
+    "got": "^11.3.0"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.10.1",
+    "@babel/core": "^7.10.2",
+    "@babel/preset-env": "^7.10.2",
+    "@babel/preset-typescript": "^7.10.1",
+    "@babel/register": "^7.10.1",
+    "typescript": "^3.9.5"
+  }
+}
