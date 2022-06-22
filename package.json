@@ -6,7 +6,7 @@
   "author": "Benji Sidi",
   "license": "MIT",
   "dependencies": {
-    "got": "^11.3.0"
+    "got": "^11.8.5"
   },
   "devDependencies": {
     "@babel/cli": "^7.10.1",
